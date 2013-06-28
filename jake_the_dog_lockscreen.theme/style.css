@@ -1,0 +1,135 @@
+@font-face
+{
+	font-family: pieces;
+	src: url(font/pieces_of_eight.ttf);
+	font-weight:400;
+}
+
+
+@-webkit-keyframes leftEyeAnim
+{
+	50% {
+		-webkit-transform: rotate(180deg) translate(-50px);
+	}
+}
+
+@-webkit-keyframes rightEyeAnim
+{
+	50% {
+		-webkit-transform: rotate(180deg) translate(-50px);
+	}
+}
+
+body
+{
+	margin: 0;
+	padding: 0;
+	left: 0;
+	top: 0;
+	font-family: pieces;
+	color: white;
+	overflow: visible;
+}
+
+.wrap
+{
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	left: 0;
+	top: 0;
+	height: 568px;
+	width: 320px;
+	overflow: hidden;
+	/*background-color: #f9c029;*/
+	background-color: #000;
+	z-index: -2;
+}
+
+@-webkit-keyframes spin
+{
+	from {-webkit-transform: rotate(0deg);}
+	to {-webkit-transform: rotate(45deg)}
+}
+
+.container
+{
+	z-index: 10;
+	top: 50px;
+	position: absolute;
+	margin: 0 auto;
+	width: 320px;
+}
+
+#time
+{
+	width:100%;
+	text-align: center;
+	z-index: 50;
+	color: white;
+	text-shadow: 0px 3px 1px black;
+	font-size: 50pt;
+	word-spacing: 0px;
+}
+
+#date
+{
+	width:100%;
+	text-align: center;
+	z-index: 50;
+	color: white;
+	text-shadow: 0px 3px 1px black;
+	font-size: 25pt;
+	word-spacing: 0px;
+}
+
+.ampm
+{
+	font-size: 35pt;
+}
+
+button.sound
+{
+	position: absolute;
+	left:50%;
+}
+
+
+.lefteye
+{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	float:left;
+	-webkit-animation: leftEyeAnim 10s ease-in-out infinite;
+}
+
+.righteye
+{
+	width: 100px;
+	height: 100px;
+	margin-right: 50px;
+	border-radius: 100%;
+	float:right;
+	-webkit-animation: rightEyeAnim 10s ease-in-out infinite;
+}
+
+.eyes
+{
+
+	position: absolute;
+	width: 320px;
+	margin-top: 220px;
+}
+
+.eye
+{
+	background-color: white;
+	z-index:0;
+}
+
+.jake
+{
+	position: absolute;
+	z-index: 5;
+}
