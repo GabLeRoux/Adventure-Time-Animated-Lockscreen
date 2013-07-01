@@ -48,10 +48,9 @@ Then edit the files you want!
 
 ## Notes
 
-* To explore the theme files, right click the `.theme` folder and click on `edit package content`. It will get you to the theme files
+* If the `.theme` is shown as a file instead of a folder, just right click it and click on `edit package content`. It will get you to the theme files
 * Only tested on `iPhone 5` running `IOS6`
-* Will add other device support soon
-* Photoshop assets included
+* Photoshop assets included in `Assets Sources` folder
 
 Font used: [pieces_of_eight](http://www.dafont.com/pieces-of-eight.font)
 
@@ -63,6 +62,9 @@ Font used: [pieces_of_eight](http://www.dafont.com/pieces-of-eight.font)
 * Add some Jake quotes or some other awesome stuff
 * Add other more characters
 * Push this on a cydia repo
+* Support other Devices such as iPad, iPhone 4, etc.
+* Support android (maybe with [this](https://play.google.com/store/apps/details?id=com.yaji.weblivewallpaper&hl=en)
+* Maybe finding a good way to customize build through `grunt.js` so we can choose languages, show or hide clock, etc.
 
 
 ## LICENCE
