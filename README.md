@@ -17,10 +17,10 @@ Visit the [theme's website](http://GabLeRoux.github.com/Adventure-Time-Animated-
 
 ## IOS Installation
 
-* Grab the latest version in the `release` folder.
+* Grab the [latest version](https://github.com/GabLeRoux/Adventure-Time-Animated-Lockscreen/raw/master/release/adventure-time-animated-lockscreen-latest.zip) from the `release` folder.
 * Extract the `Adventure-Time-Animated-Lockscreen.theme` 
 * Send it into your iphone themes directory (Usually something like `/var/stash/Themes.XXXXXX`).
-
+* 
 
 ## Developpement
 You'll need some basic terminal knowledge and [Node Package Modules](https://npmjs.org/).
@@ -61,6 +61,8 @@ Font used: [pieces_of_eight](http://www.dafont.com/pieces-of-eight.font)
 * Add other animations
 * Add touch events if possible
 * Add some Jake quotes or some other awesome stuff
+* Add other more characters
+* Push this on a cydia repo
 
 
 ## LICENCE
