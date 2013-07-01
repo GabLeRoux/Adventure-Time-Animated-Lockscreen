@@ -1,0 +1,4 @@
+node_modules
+.project
+.sass-cache
+adventure-time-animated-lockscreen.theme/.sass-cache
