@@ -63,7 +63,7 @@ Font used: [pieces_of_eight](http://www.dafont.com/pieces-of-eight.font)
 * Add other more characters
 * Push this on a cydia repo
 * Support other Devices such as iPad, iPhone 4, etc.
-* Support android (maybe with [this](https://play.google.com/store/apps/details?id=com.yaji.weblivewallpaper&hl=en)
+* Support android (maybe with [this](https://play.google.com/store/apps/details?id=com.yaji.weblivewallpaper&hl=en))
 * Maybe finding a good way to customize build through `grunt.js` so we can choose languages, show or hide clock, etc.
 
 
