@@ -10,17 +10,17 @@ Visit the [theme's website](http://GabLeRoux.github.com/Adventure-Time-Animated-
 ![Jake the dog preview](https://github.com/GabLeRoux/Adventure-Time-Animated-Lockscreen/raw/master/preview/jake.png) ![BMO preview](https://github.com/GabLeRoux/Adventure-Time-Animated-Lockscreen/raw/master/preview/bmo.png)
 
 
-## IOS Requirements
+## IOS Installation
+
+### Requirements
 - [Jailbroken Device](http://en.wikipedia.org/wiki/IOS_jailbreaking) (they say it's legal)
 - [Winterboard](http://cydia.saurik.com/package/winterboard)
 
-
-## IOS Installation
-
+### Installation
 * Grab the [latest version](https://github.com/GabLeRoux/Adventure-Time-Animated-Lockscreen/raw/master/release/adventure-time-animated-lockscreen-latest.zip) from the `release` folder.
 * Extract the `Adventure-Time-Animated-Lockscreen.theme` 
 * Send it into your iphone themes directory (Usually something like `/var/stash/Themes.XXXXXX`).
-* 
+
 
 ## Developpement
 You'll need some basic terminal knowledge and [Node Package Modules](https://npmjs.org/).
