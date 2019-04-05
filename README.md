@@ -1,5 +1,7 @@
 # Adventure Time Animated Lockscreen
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/GabLeRoux/Adventure-Time-Animated-Lockscreen.svg)](https://greenkeeper.io/)
+
 Mobile Lockscreen featuring characters from Adventure Time. Because “Sucking at something is the first step to being sorta good at something” –Jake the Dog
 
 Visit the [theme's website](http://GabLeRoux.github.com/Adventure-Time-Animated-Lockscreen) for a realtime demo!
