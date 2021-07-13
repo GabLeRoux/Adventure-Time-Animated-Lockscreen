@@ -2,7 +2,7 @@
 
 Mobile Lockscreen featuring characters from Adventure Time. Because “Sucking at something is the first step to being sorta good at something” –Jake the Dog
 
-Visit the [theme's website](http://GabLeRoux.github.com/Adventure-Time-Animated-Lockscreen) for a realtime demo!
+Visit the [theme's website](https://gableroux.github.io/Adventure-Time-Animated-Lockscreen/) for a realtime demo!
 
 
 ## Preview
